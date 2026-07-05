@@ -1,0 +1,15 @@
+{
+  "eventId": "sample",
+  "place": "Nordic Journey",
+  "gps": {
+    "lat": null,
+    "lng": null
+  },
+  "date": "2026-07-01",
+  "time": "",
+  "weather": "",
+  "temperature": "",
+  "note": "纪念附言样本",
+  "media": [],
+  "album": []
+}

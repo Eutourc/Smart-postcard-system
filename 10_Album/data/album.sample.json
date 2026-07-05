@@ -1,0 +1,35 @@
+{
+  "title": "Nordic Memory Album",
+  "pages": [
+    {
+      "type": "cover",
+      "src": "assets/cover/cover.png",
+      "title": "封面"
+    },
+    {
+      "type": "card",
+      "src": "assets/postcards/sweden.jpg",
+      "title": "瑞典"
+    },
+    {
+      "type": "card",
+      "src": "assets/postcards/norway.jpg",
+      "title": "挪威"
+    },
+    {
+      "type": "card",
+      "src": "assets/postcards/denmark.jpg",
+      "title": "丹麦"
+    },
+    {
+      "type": "card",
+      "src": "assets/postcards/finland.jpg",
+      "title": "芬兰"
+    },
+    {
+      "type": "card",
+      "src": "assets/postcards/iceland.jpg",
+      "title": "冰岛"
+    }
+  ]
+}

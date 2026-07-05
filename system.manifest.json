@@ -1,0 +1,32 @@
+{
+  "name": "Smart Postcard Foundation",
+  "version": "1.0",
+  "status": "foundation",
+  "modules": [
+    "00_Core",
+    "01_Photo",
+    "02_Home",
+    "02A_Center",
+    "03_Map",
+    "04_Note",
+    "05_Write",
+    "06_Media",
+    "07_Seal",
+    "08_Address",
+    "09_Postmark",
+    "10_Album",
+    "11_Payment",
+    "12_Register",
+    "13_Language",
+    "14_Ads",
+    "15_Web",
+    "99_Tools"
+  ],
+  "principles": [
+    "relative_paths",
+    "no_large_base64",
+    "software_assets_database_storage_separated",
+    "github_is_development_repository",
+    "deployable_to_normal_web_host"
+  ]
+}

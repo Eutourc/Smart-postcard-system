@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Smart Postcard Memorial Event",
+  "type": "object",
+  "properties": {
+    "eventId": {
+      "type": "string"
+    },
+    "place": {
+      "type": "string"
+    },
+    "gps": {
+      "type": "object",
+      "properties": {
+        "lat": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "lng": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      }
+    },
+    "date": {
+      "type": "string"
+    },
+    "time": {
+      "type": "string"
+    },
+    "weather": {
+      "type": "string"
+    },
+    "temperature": {
+      "type": "string"
+    },
+    "note": {
+      "type": "string"
+    },
+    "media": {
+      "type": "array"
+    },
+    "album": {
+      "type": "array"
+    }
+  }
+}
