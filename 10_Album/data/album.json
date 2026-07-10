@@ -1,0 +1,37 @@
+{
+  "module": "10_Album",
+  "version": "standard-module-1.0",
+  "title": "Smart Postcard 电子相册样册",
+  "pages": [
+    {
+      "type": "cover",
+      "src": "assets/cover/cover.png",
+      "title": "电子相册封面"
+    },
+    {
+      "type": "card",
+      "src": "assets/postcards/sweden.svg",
+      "title": "瑞典"
+    },
+    {
+      "type": "card",
+      "src": "assets/postcards/norway.svg",
+      "title": "挪威"
+    },
+    {
+      "type": "card",
+      "src": "assets/postcards/denmark.svg",
+      "title": "丹麦"
+    },
+    {
+      "type": "card",
+      "src": "assets/postcards/finland.svg",
+      "title": "芬兰"
+    },
+    {
+      "type": "card",
+      "src": "assets/postcards/iceland.svg",
+      "title": "冰岛"
+    }
+  ]
+}
