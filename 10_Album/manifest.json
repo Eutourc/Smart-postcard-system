@@ -1,0 +1,24 @@
+{
+  "name": "纪念明信片电子相册",
+  "short_name": "纪念相册",
+  "description": "Smart Postcard 纪念明信片电子相册",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": [
+    "fullscreen",
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait",
+  "background_color": "#c99448",
+  "theme_color": "#c99448",
+  "icons": [
+    {
+      "src": "./assets/seal/seal.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
